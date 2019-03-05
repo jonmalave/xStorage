@@ -1,0 +1,7 @@
+{
+  "name": "xstorage",
+  "version": "1.0.0",
+  "description": "Browser Storage Plugin for Nuxt.js",
+  "author": "Jon Malave",
+  "private": false
+}
