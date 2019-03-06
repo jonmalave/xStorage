@@ -34,7 +34,7 @@ this.$xStorage.update({
 ```
 
 #### Delete
-call `this.$xStorage.delete();` to delete the xStorage object
+Call `this.$xStorage.delete();` to delete the xStorage object
 
 
 ## FYI 
