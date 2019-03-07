@@ -1,6 +1,6 @@
 # xStorage
 
-> Browser Storage Plugin for Nuxt.js
+> Browser Storage Plugin for Nuxt.js. Easily save and persist user session data.
 
 ## Install
 Copy `module/xStorage.js` to project's `/modules` folder and `plugin/xStorage.js` to `/plugins` folder. 
