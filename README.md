@@ -41,4 +41,4 @@ Call `this.$xStorage.delete();` to delete the xStorage object
 xStorage uses a single object to store browser session data persistently via localStorage. When updating a single property you must define any previously added properties and values in each update to prevent data loss.
 
 
-**For detailed explanation on how Nuxt.js plugins work, checkout [Nuxt.js docs](https://nuxtjs.org/guide/plugins#codefund_ad).
+For detailed explanation on how Nuxt.js plugins work, checkout [Nuxt.js docs](https://nuxtjs.org/guide/plugins#codefund_ad).
